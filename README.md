@@ -20,5 +20,5 @@ There are three
 - 
 
 ## References
-- [Statechains article](https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39)
+- [Statechains](https://github.com/RubenSomsen/rubensomsen.github.io/blob/master/img/statechains.pdf)
 - [Double-spending Prevention for Bitcoin zero-confirmation transactions](https://eprint.iacr.org/2017/394.pdf)
