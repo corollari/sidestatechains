@@ -20,6 +20,5 @@ There are three
 - 
 
 ## References
-- Statechains: There doesn't seem to be an authorative paper that explains everything there is to know about statechains, rather the information seems to be disseminated through the internet.
-- Double-spending Prevention for Bitcoin zero-confirmation transactions (https://eprint.iacr.org/2017/394.pdf)
-
+- [Statechains article](https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39)
+- [Double-spending Prevention for Bitcoin zero-confirmation transactions](https://eprint.iacr.org/2017/394.pdf)
